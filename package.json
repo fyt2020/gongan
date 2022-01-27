@@ -18,7 +18,7 @@
     "element-ui": "^2.10.0",
     "jquery": "^3.2.1",
     "sha1": "^1.1.1",
-    "three": "^0.106.2",
+    "three": "^0.137.0",
     "three-fbx-loader": "^1.0.3",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
